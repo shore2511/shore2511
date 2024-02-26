@@ -1,2 +1,1 @@
-# the shahil siddhant
-# hello
+# Hello there ! 👋
