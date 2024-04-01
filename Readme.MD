@@ -9,3 +9,6 @@
 
 <h3>Tech Stack</h3>
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></img>
+
+<h3>My Badges</h3>
+<img src="https://camo.githubusercontent.com/97925ab……656e747…" data-canonical-src="https://learn.microsoft.com/en-us/training/achievements/github-introduction-products.svg" style="max-width: 100%;">
