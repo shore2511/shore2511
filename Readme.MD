@@ -6,3 +6,6 @@
 💻 Enthusiastic about software development, algorithms, and emerging technologies.<br/>
 🌱 Constantly learning and expanding my knowledge base.<br/>
 🔍 Always eager to explore new ideas and opportunities in the tech world.</p>
+
+<h3>Tech Stack</h3>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></img>
