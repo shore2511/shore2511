@@ -1,4 +1,4 @@
-![logo](https://github.com/shore2511/shore2511/blob/main/banner.gif)
+![logo](https://github.com/shore2511/shore2511/blob/main/new%20banner%20design.gif)
 
 <h1 align="center">Hi 👋, I'm Shahil Siddhant</h1>
 <h3 align="center">I'm Shahil Siddhant, a Computer Science Engineering student passionate about exploring the vast landscape of technologies that surround us.</h3>
