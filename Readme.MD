@@ -15,7 +15,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shore2511&label=Profile%20views&color=0e75b6&style=flat" alt="shore2511" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shore2511" alt="shore2511" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
