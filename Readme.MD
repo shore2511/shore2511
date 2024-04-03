@@ -1,7 +1,7 @@
 ![logo](https://github.com/shore2511/shore2511/blob/main/new%20banner%20design.gif)
 
 <h1 align="center">Hi 👋, I'm Shahil Siddhant</h1>
-<h3 align="center">I'm Shahil Siddhant, a Computer Science Engineering student passionate about exploring the vast landscape of technologies that surround us.</h3>
+<h4 align="center">I'm Shahil Siddhant: Computer Science Enthusiast. GitHub Profile: Explore My Versatility Across Coding, Design, and Problem-Solving. Witness the Fusion of Skills That Define Me as a Tech Enthusiast. Join Me in Crafting Solutions and Exploring New Horizons in the World of Computer Science.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shore2511&label=Profile%20views&color=0e75b6&style=flat" alt="shore2511" /> </p>
 
