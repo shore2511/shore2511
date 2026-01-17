@@ -128,12 +128,25 @@ I am a **Computer Science Engineer & Full Stack Developer** with strong expertis
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shore2511&show_icons=true&count_private=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shore2511&show_icons=true&hide_title=true&count_private=true&include_all_commits=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shore2511" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shore2511"
+    height="165"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shore2511&theme=default"
+  />
+</p>
+
 
 ---
 
