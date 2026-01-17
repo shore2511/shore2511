@@ -1,125 +1,140 @@
-![banner](https://github.com/shore2511/shore2511/blob/main/banner.png)
+![Banner](https://github.com/shore2511/shore2511/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Shahil Siddhant</h1>
-
-<h3 align="center">
-Full-Stack Developer | Computer Science Engineer | Open to Opportunities 🚀
-</h3>
+<h3 align="center">Full Stack Developer | Computer Science Engineer | Problem Solver</h3>
 
 <p align="center">
-Java • Spring Boot • React • DSA • System Design
+🚀 Turning ideas into scalable software • 💻 Java | Spring Boot | React • ☁️ Cloud Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shore2511&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science Engineering graduate** with a strong foundation in **software development, data structures, and full-stack engineering**.  
-I enjoy building **scalable applications**, solving **real-world problems**, and continuously improving my technical depth.
+I am a **Computer Science Engineer & Full Stack Developer** passionate about building  
+**real-world, scalable, and business-driven applications**.
 
-- 🔭 Currently working on **Full-Stack & Backend projects**
-- 🌱 Learning **System Design, Cloud & Advanced Spring Boot**
-- 💡 Strong believer in **clean code & solid fundamentals**
-- 🤝 Open to **Full-Time / Internship / Freelance opportunities**
-- 📫 Reach me at **LinkedIn or Email**
+- 🔹 Strong foundation in **Data Structures & Algorithms**
+- 🔹 Experience with **Java, Spring Boot, React, REST APIs**
+- 🔹 Interest in **Cloud Computing & System Design**
+- 🔹 Focused on **clean code, performance, and scalability**
 
 ---
 
-## 🛠️ Technical Skills (Resume-Aligned)
+## 🧠 Currently Working On
 
-### 💻 Programming Languages
-- **Java**
-- Python
-- C / C++
-- JavaScript
-- Dart
+- 🚀 Full Stack & Backend Projects  
+- ☁️ Cloud Architecture & Security  
+- 📊 Technical Research & Documentation  
+- 💼 Software Engineering Interview Prep  
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shahil-siddhant-04484621a/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+</a>
+<a href="https://www.instagram.com/the_shahil_siddhant/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+</a>
+<a href="https://www.facebook.com/the.shahil.siddhant" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35"/>
+</a>
+<a href="https://www.youtube.com/channel/UCBI7SrQLSre6_nNyEL-9Yvg" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="35"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Technical Skills
+
+### 🚀 Programming Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28"/> <b>Java</b> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/> <b>Python</b> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/> <b>C</b> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28"/> <b>C++</b> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/> <b>JavaScript</b>
+</p>
+
+---
 
 ### 🌐 Frontend Development
-- React.js
-- HTML5, CSS3
-- Bootstrap
-- Tailwind CSS (basic)
-- Flutter (UI-focused)
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28"/> <b>HTML5</b> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28"/> <b>CSS3</b> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28"/> <b>React</b> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="28"/> <b>Bootstrap</b>
+</p>
 
-### ⚙️ Backend Development
-- Spring Boot
-- Node.js
-- RESTful APIs
-- Authentication & Authorization
+---
+
+### ⚙️ Backend & Frameworks
+<p>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28"/> <b>Spring Boot</b> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28"/> <b>Node.js</b>
+</p>
+
+---
 
 ### 🗄️ Databases
-- MySQL
-- MongoDB
-- Firebase
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/> <b>MySQL</b> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28"/> <b>MongoDB</b>
+</p>
 
-### ☁️ Cloud & DevOps
-- Google Cloud Platform (GCP)
-- Firebase Hosting
-- Linux
-- Bash Scripting
+---
 
-### 🧰 Tools & Platforms
-- Git & GitHub
-- Postman
-- Figma
-- VS Code
+### ☁️ Cloud & Tools
+<p>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="28"/> <b>Google Cloud</b> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28"/> <b>Firebase</b> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28"/> <b>Git</b> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="28"/> <b>Postman</b> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/> <b>Linux</b> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28"/> <b>Figma</b>
+</p>
 
-### 🧠 Core CS Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- DBMS
-- Operating Systems
-- Computer Networks
-- Software Engineering
+---
+
+## 📌 Strengths & Focus Areas
+
+✔ Full Stack Application Development  
+✔ REST API Design & Integration  
+✔ Data Structures & Algorithms  
+✔ Cloud & Backend Systems  
+✔ Clean UI + Scalable Backend  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shore2511&show_icons=true&theme=default" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shore2511&layout=compact" alt="languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shore2511" alt="streak" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
 <p align="left">
-<a href="https://www.linkedin.com/in/shahil-siddhant-04484621a/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.instagram.com/the_shahil_siddhant/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-<a href="https://www.facebook.com/the.shahil.siddhant" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-<a href="https://www.youtube.com/channel/UCBI7SRQLsre6_NNYEL-9YVG" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shore2511&layout=compact" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shore2511&show_icons=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shore2511" />
 </p>
 
 ---
 
-## 📌 Availability
+## 🎯 Career Objective
 
-✅ **Available for hire**  
-✅ **Open to Software Developer / Full-Stack / Backend roles**
+**Aspiring Software Engineer** aiming to contribute to impactful projects while continuously improving technical, analytical, and problem-solving skills.
 
 ---
 
-<p align="center">
-✨ “Code with purpose. Build with passion.” ✨
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shore2511&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+⭐ If you like my work, consider starring my repositories  
+📩 Open to **Internships | Full-Time Roles | Collaborations**
