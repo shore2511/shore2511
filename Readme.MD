@@ -1,7 +1,7 @@
 ![Banner](https://github.com/shore2511/shore2511/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Shahil Siddhant</h1>
-<h3 align="center">Full Stack Developer | Computer Science Engineer | Digital & Cloud Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Software Developer | Digital & Cloud Enthusiast</h3>
 
 <p align="center">
 🚀 Building scalable software • 💻 Backend + Frontend • ☁️ Cloud • 📈 Digital Growth
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science Engineer & Full Stack Developer** with strong expertise in:
+I am a **Full Stack & Software Developer** with strong expertise in:
 
 - ✅ Backend systems & REST APIs  
 - ✅ Scalable frontend applications  
@@ -42,7 +42,7 @@ I am a **Computer Science Engineer & Full Stack Developer** with strong expertis
 ## 🔗 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shahil-siddhant-04484621a/" target="_blank">
+<a href="https://www.linkedin.com/in/shahil-siddhant/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,12 +50,12 @@ I am a **Computer Science Engineer & Full Stack Developer** with strong expertis
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/the.shahil.siddhant" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36"/>
+<a href="https://x.com/shahil_siddhant" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCBI7SrQLSre6_nNyEL-9Yvg" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="36"/>
+<a href="http://shahilsiddhant.me/" target="_blank">
+<img src="https://img.icons8.com/ios-filled/50/domain.png" width="34"/>
 </a>
 </p>
 
@@ -68,6 +68,8 @@ I am a **Computer Science Engineer & Full Stack Developer** with strong expertis
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26"/> Java</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26"/> Python</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="26"/> PHP</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="26"/> C</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="26"/> C++</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26"/> JavaScript</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="26"/> Dart</span>
 </p>
@@ -77,6 +79,7 @@ I am a **Computer Science Engineer & Full Stack Developer** with strong expertis
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="26"/> HTML5</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="26"/> CSS3</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26"/> React</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="26"/> Next.js</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="26"/> Tailwind CSS</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="26"/> Bootstrap</span>
 </p>
@@ -92,24 +95,28 @@ I am a **Computer Science Engineer & Full Stack Developer** with strong expertis
 ### 🗄️ Databases
 <p>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="26"/> MySQL</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="26"/> PostgreSQL</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="26"/> MongoDB</span>&nbsp;&nbsp;&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="26"/> PostgreSQL</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="26"/> Redis</span>
 </p>
 
 ### ☁️ Cloud, CMS & Tools
 <p>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="26"/> AWS</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="26"/> Google Cloud</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="26"/> Firebase</span>&nbsp;&nbsp;&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="26"/> WordPress</span>&nbsp;&nbsp;&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="26"/> Linux</span>&nbsp;&nbsp;&nbsp;
-<span><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="26"/> Canva</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="26"/> Linux</span>
 </p>
 
-### 📊 Data, SEO & Marketing
+### 📊 Data, Design & Marketing
 <p>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="26"/> Power BI</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="26"/> Photoshop</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="26"/> Canva</span>&nbsp;&nbsp;&nbsp;
+<span>📊 Data Analysis</span>&nbsp;&nbsp;&nbsp;
 <span>📈 SEO</span>&nbsp;&nbsp;&nbsp;
-<span>📣 Digital Marketing</span>&nbsp;&nbsp;&nbsp;
-<span>📊 Data Analysis</span>
+<span>📣 Digital Marketing</span>
 </p>
 
 ---
@@ -130,16 +137,14 @@ I am a **Computer Science Engineer & Full Stack Developer** with strong expertis
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shore2511&theme=default" />
 </p>
 
-
-
 ---
 
 ## 🎯 Career Objective
 
-To work as a **Software / Full Stack Engineer** where I can combine  
-**engineering, cloud, and digital growth skills** to build impactful products.
+To work as a **Software / Full Stack Developer** where I can combine  
+**engineering, cloud, data, and digital growth skills** to build impactful products.
 
 ---
 
 ⭐ **Star repositories you like**  
-🤝 **Open to Internships | Full-Time | Freelance | Collaboration**
+🤝 **Open to Full-Time | Freelance | Collaboration**
