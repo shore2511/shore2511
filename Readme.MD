@@ -1,4 +1,4 @@
-![logo](https://github.com/shore2511/shore2511/blob/main/new%20banner%20design.gif)
+![logo](https://github.com/shore2511/shore2511/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Shahil Siddhant</h1>
 <h4 align="center">I'm Shahil Siddhant: Computer Science Enthusiast. GitHub Profile: Explore My Versatility Across Coding, Design, and Problem-Solving. Witness the Fusion of Skills That Define Me as a Tech Enthusiast. Join Me in Crafting Solutions and Exploring New Horizons in the World of Computer Science.</h4>
