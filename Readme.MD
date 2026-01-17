@@ -65,62 +65,51 @@ I am a **Computer Science Engineer & Full Stack Developer** with strong expertis
 
 ### 🚀 Programming Languages
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26"/> <b>Java</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26"/> <b>Python</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="26"/> <b>PHP</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26"/> <b>JavaScript</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="26"/> <b>Dart</b>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26"/> Java</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26"/> Python</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="26"/> PHP</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26"/> JavaScript</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="26"/> Dart</span>
 </p>
-
----
 
 ### 🌐 Frontend Development
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="26"/> <b>HTML5</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="26"/> <b>CSS3</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26"/> <b>React</b><br>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="26"/> <b>Tailwind CSS</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="26"/> <b>Bootstrap</b>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="26"/> HTML5</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="26"/> CSS3</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26"/> React</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="26"/> Tailwind CSS</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="26"/> Bootstrap</span>
 </p>
-
----
 
 ### ⚙️ Backend & Frameworks
 <p>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="26"/> <b>Spring Boot</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="26"/> <b>Node.js</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="26"/> <b>Express.js</b><br>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="26"/> <b>Flutter</b>
+<span><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="26"/> Spring Boot</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="26"/> Node.js</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="26"/> Express.js</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="26"/> Flutter</span>
 </p>
-
----
 
 ### 🗄️ Databases
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="26"/> <b>MySQL</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="26"/> <b>MongoDB</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="26"/> <b>PostgreSQL</b>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="26"/> MySQL</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="26"/> MongoDB</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="26"/> PostgreSQL</span>
 </p>
-
----
 
 ### ☁️ Cloud, CMS & Tools
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="26"/> <b>AWS</b><br>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="26"/> <b>Google Cloud</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="26"/> <b>WordPress</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="26"/> <b>Linux</b><br>
-<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="26"/> <b>Canva</b>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="26"/> AWS</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="26"/> Google Cloud</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="26"/> WordPress</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="26"/> Linux</span>&nbsp;&nbsp;&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="26"/> Canva</span>
 </p>
 
----
-
-### 📊 Data, SEO & Digital Marketing
+### 📊 Data, SEO & Marketing
 <p>
-📈 <b>SEO (On-page & Technical)</b><br>
-📣 <b>Digital Marketing Strategy</b><br>
-📊 <b>Data Analysis & Insights</b><br>
-📉 <b>Performance Tracking & Optimization</b>
+<span>📈 SEO</span>&nbsp;&nbsp;&nbsp;
+<span>📣 Digital Marketing</span>&nbsp;&nbsp;&nbsp;
+<span>📊 Data Analysis</span>
 </p>
 
 ---
